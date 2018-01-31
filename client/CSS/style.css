@@ -1,5 +1,6 @@
 .field {
     padding: 5px;
+    width: 40%;
 }
 
 .container {
@@ -20,7 +21,9 @@
 }
 
 .my_button {
-    width:70px;
+    cursor: pointer;
+    outline: 0;
+    width: 13%;
     height:40px;
 }
 
